@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sumitkumar-professional123
-- 👀 I’m interested in Applied Mathematics, Physics, Electronics(avionics) and Aerospace engineering. 
+- 👀 I’m interested in Applied Mathematics, and Data Science and Engineering.
 - 🌱 I’m currently learning mathematics and physics
 
 - 📫 How to reach me - www.linkedin.com/in/sumit-kumar-612313305
